@@ -2,8 +2,8 @@
 kotlin = "1.9.23"
 loom = "1.6.+"
 
-minecraft = "1.20.5"
-fabric_loader = "0.15.10"
+minecraft = "1.21.1"
+fabric_loader = "0.105.0+1.21.1"
 quilt_mappings = "0"
 
 fabric_api = "0.97.5+1.20.5"
